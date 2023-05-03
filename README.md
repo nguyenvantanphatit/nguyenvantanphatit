@@ -1,6 +1,6 @@
 <!-- tanphat -->
 <a href="#" target="_blank">
-  <img src="svg/tanphat.svg" width="500" alt="tanphat-official" />
+  <img src="svg/tanphat.svg" width="600" alt="tanphat-official" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
