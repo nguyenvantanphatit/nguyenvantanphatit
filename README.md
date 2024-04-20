@@ -26,7 +26,4 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Strapi-282C34?logo=Strapi&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-<br>
-<h2 align="center">🔥 Tấn Phát 🔥</h2>
 
-<br>
