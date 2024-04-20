@@ -28,6 +28,7 @@
 <span><img src="https://img.shields.io/badge/Strapi-282C34?logo=Strapi&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
+
 <br>
 <div align=center>
 <a href="#" title="Trungquandev">
