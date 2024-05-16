@@ -26,6 +26,7 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Strapi-282C34?logo=Strapi&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<hr/><hr/><hr/>
 ### &nbsp; 🏆 GitHub Statistics
 
   <br/>
@@ -36,10 +37,5 @@
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=nguyenvantanphatit&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvantanphatit&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 
-
 <hr/>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=nguyenvantanphatit&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/nguyenvantanphatit?color=black&logo=github" />
-</p>
