@@ -27,9 +27,3 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Strapi-282C34?logo=Strapi&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 <hr/><hr/><hr/>
-### &nbsp; 🏆 GitHub Statistics
-
-  <br/>
-    <p align="center">
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvantanphatit&hide_border=true&theme=nightowl" />
-    </p>
