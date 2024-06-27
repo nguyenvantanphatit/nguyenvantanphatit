@@ -15,5 +15,5 @@
 <br/>
 </div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvantanphatit&show_icons=true&theme=dark" style="bg-white text-white">
+(https://github-readme-stats.vercel.app/api?username=nguyenvantanphatit&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
 </div>
