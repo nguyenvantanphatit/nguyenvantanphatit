@@ -1,3 +1,4 @@
+![Tấn Phát GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenvantanphatit&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
 <!-- tanphat -->
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -12,5 +13,3 @@
 &nbsp;
 <br/>
 
-<br/>
-![Tấn Phát GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenvantanphatit&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
