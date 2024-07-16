@@ -10,4 +10,16 @@
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <br/>
+## 📊 **Github Stats** 👇
+
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kyu0z&theme=chartreuse-dark&hide_border=false"  /></p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+</p><p> <a href="https://github.com/nguyenvantanphatit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvantanphatit&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nguyenvantanphatit&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
+<hr>
 
