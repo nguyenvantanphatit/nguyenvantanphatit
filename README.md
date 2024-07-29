@@ -19,4 +19,52 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvantanphatit&theme=chartreuse-dark&hide_border=false"  /></p>
 
 
+## Olá, meu nome é {seu nome}!
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=nguyenvantanphatit&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvantanphatit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvantanphatit&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/nguyenvantanphatit/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 
