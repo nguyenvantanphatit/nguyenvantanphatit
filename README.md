@@ -19,5 +19,9 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvantanphatit&theme=chartreuse-dark&hide_border=false"  /></p>
 
 
+## Top 5 most used languages across my repositories
 
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B151.5%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B116.5%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.3%25)
 
