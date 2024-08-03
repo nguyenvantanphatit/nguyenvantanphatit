@@ -9,8 +9,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TailwindCss-282C34?logo=TailwindCss&logoColor=00F200" alt="TailwindCss logo" title="Tailwind Css" height="25" /></span>
-&nbsp;
 <br/>
 <br/>
 <br/>
