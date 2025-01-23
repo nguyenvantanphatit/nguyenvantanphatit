@@ -14,6 +14,5 @@
 <br/>
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvantanphatit&theme=chartreuse-dark&hide_border=false"  /></p>
 
 
